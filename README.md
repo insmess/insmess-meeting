@@ -30,7 +30,7 @@
 
 本产品主要特点试用离线环境，部署包一次下载，即可在无网络状态内网部署。
 
-**百度网盘：**`链接: https://pan.baidu.com/s/1HK1PmU9sGB2FIC1RHcpY2w?pwd=6tyd`
+**百度网盘：**`链接: 链接: https://pan.baidu.com/s/1LyrHQz1-qnC_6jqKKYjjrw?pwd=ce99`
 
 ### 3.2 安装
 
