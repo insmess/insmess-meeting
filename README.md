@@ -5,7 +5,7 @@
 - Github地址：https://github.com/insmess/insmess-meeting
 - Gitee地址：https://gitee.com/insmess_enterprise/insmess-meeting.git
 
-技术支持、商务合作请加微信：insmess01
+商务合作请加微信：insmess01
 
 商务合作可开具13%的增值税发票。
 
